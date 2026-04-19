@@ -1,12 +1,12 @@
 {
-  "export_job_id": "44285acd-41f3-4a58-874f-c3993de5bfb5",
+  "export_job_id": "f0f63d2a-010f-4178-bf05-312357e3cc1c",
   "id_short": 458073,
-  "published_at": "2026-04-12T19:11:48Z",
+  "published_at": "2026-04-19T19:06:34Z",
   "repo_name": "all-restaurants-in-gainesville-florida-us-sample-458073",
   "sample_asset_name": "beamstation_458073_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/458073/beamstation_458073_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 55,
-  "sample_sha256": "951ec74b66db7ba6510b732c22b083caac4c67c08490af75015a08663f4c0121",
-  "sample_size_bytes": 219398,
-  "total_records": 558
+  "sample_records": 52,
+  "sample_sha256": "63c6576b02ea4c7315859e16f97c888d26911db61ea26ad787ccaa5eedd28f79",
+  "sample_size_bytes": 204342,
+  "total_records": 521
 }
